@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/corrosion_dataset/train/images
+val: /content/drive/MyDrive/corrosion_dataset/validate/images
+
+nc: 1  # Number of classes
+names: ['Grado3']  # Class names
